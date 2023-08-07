@@ -8,6 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
+    "grid-engine": "^2.34.0",
     "phaser": "^3.60.0",
     "typescript": "^5.0.3"
   },
